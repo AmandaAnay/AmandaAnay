@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I’m Amanda Anay :upside_down_face:
 
-<!--
-**AmandaAnay/AmandaAnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### FullStack Developer
 
-Here are some ideas to get you started:
+:woman_technologist: I’m currently learning:
+- Java
+- JavaScript
+- Git
+- HTML/CSS
+- PostgreSQL
+- Springboot
+- API REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmandaAnay&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAnay&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
